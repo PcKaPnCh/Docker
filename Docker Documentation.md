@@ -45,7 +45,7 @@ ___
 ___
 	Shutting down containers:
 		docker compose down --volume
-		*This is also removes the database*
+		*This also removes the database*
 	To preserve the database:
 		docker compose down
 
